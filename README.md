@@ -62,5 +62,5 @@ Dự án được phân phối cho mục đích học tập.
 
 ## Thông tin tác giả/liên hệ (Author/Contact)
 - **Tác giả:** [Đinh Hoài Nam, Bùi Quang Huy, Nguyễn Hoàng Duy]
-- **Email:** [hnamsflex@gmail.com]
+- **Email:** [buiquanghuy352k5.com]
 - **Môn học:** Đề án thực hành 1
